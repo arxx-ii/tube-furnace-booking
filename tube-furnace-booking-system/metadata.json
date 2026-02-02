@@ -1,0 +1,5 @@
+
+{
+  "name": "Tube Furnace Booking System",
+  "description": "A clean, minimal lab equipment booking system using React and Google Sheets as a backend. Features hourly slot selection, conflict detection, and edit-code-based management."
+}
