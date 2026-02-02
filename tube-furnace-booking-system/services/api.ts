@@ -1,7 +1,7 @@
 
 import { Booking, BookingResponse, NewBooking, UpdateBooking } from '../types';
 
-const API_URL = 'https://script.google.com/macros/s/AKfycbx_v0U8zR8QJ_BqGkXkLw9kZ7U1p2Q5m3D4_YOUR_ID_HERE/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbwMLYLBAVIAJR4rmjm3Wzmca1jxwq4I1_-VZTTfZ47NRsN33pIhP2Da0kxa0epE8J4r/exec';
 const isMockMode = API_URL.includes('YOUR_ID_HERE');
 const STORAGE_KEY = 'tube_furnace_bookings_v2';
 
